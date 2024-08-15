@@ -1,0 +1,27 @@
+/* index.css */
+
+/* Global styles for body and containers */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.center {
+  text-align: center;
+}
+
+.error {
+  color: red;
+}
+
+/* Add any other global or reset styles here */
